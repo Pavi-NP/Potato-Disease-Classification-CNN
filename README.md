@@ -14,6 +14,7 @@ Deployment of the trained model for real-time classification of potato disease i
 ## Practice Repository
 
 This project is created as a practice exercise to learn and apply Git and GitHub usage. It is inspired by codebasics's YouTube tutorial on Deep Learning for Potato Disease Classification.
+<https://youtu.be/ZN6P_GEJ7lk?si=QqkDnpyw--viWZ0->
 
 ## Acknowledgements
 
