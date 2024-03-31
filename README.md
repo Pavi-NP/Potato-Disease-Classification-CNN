@@ -22,4 +22,4 @@ We would like to express our gratitude to the contributors and maintainers of Te
 
 ## Contact
 
-For inquiries or feedback, please contact contact.neth.edu@gmail.com
+For inquiries or feedback, please contact Pavi : contact.neth.edu@gmail.com
