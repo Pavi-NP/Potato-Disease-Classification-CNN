@@ -23,3 +23,23 @@ We would like to express our gratitude to the contributors and maintainers of Te
 ## Contact
 
 For inquiries or feedback, please contact Pavi : contact.neth.edu@gmail.com
+
+## Installation
+
+To run the project locally, follow these steps:
+
+1. Clone the repository to your local machine:
+   
+   git clone https://github.com/your_username/potato-disease-classification.git
+   
+
+2. Install the required dependencies:
+   
+   pip install -r requirements.txt
+   
+
+3. Run the project:
+   
+   python main.py
+   
+
